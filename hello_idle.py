@@ -1,2 +1,2 @@
 # hello_idle.py
-print("Hello IDLE")
+print("Hello IDLE!")
